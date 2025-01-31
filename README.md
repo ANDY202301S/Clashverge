@@ -4,7 +4,7 @@
 
 ## 超实惠机场 （限时85折优惠码：85off55 ）
 【重磅！！！超实惠机场新增emby影视会员，购买超实惠的小伙伴就可以免费使用emby影视会员服务】
-### 官网地址：[https://bit.ly/3T3bjZx](https://cshjc.top/web/#/login?code=idnjJ84X)
+### 官网地址：[https://cutt.ly/weSsgJH9](https://cshjc.top/web/#/login?code=idnjJ84X)
 速度啦！！！限时85折优惠码：85off55  
 
 |  超实惠 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
