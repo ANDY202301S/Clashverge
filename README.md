@@ -89,6 +89,7 @@ PS:【不限期套餐，按流量付费，流量用完为止】
    - 流量500G  
    - 年付7.5折，2年付6折  
    - 高速专线，极低延迟，全球独家Hysteria2协议
+![fec7be1e0721212f6ff4e1dbd583c1e](https://github.com/user-attachments/assets/04ede44b-c122-48ab-8748-3733472a0f6c)
 
 
 
