@@ -157,6 +157,8 @@ IEPL专线❤️
 ## 友情链接：
 
 ### ①更多专业稳定机场VPN推荐：https://github.com/029danio/fly
+
 👉👉👉  TG福利搜索：https://t.me/jisou?start=a_1638135106 电报神器，搜啥有啥。 ［聊天框发送要搜的关键词，就可以了］
 
+🔍探索5000+优质Telegram群、频道和机器人资源库 🚀 https://github.com/jichangtuijian2025/TGQUN
 
