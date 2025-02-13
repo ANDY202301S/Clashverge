@@ -191,3 +191,5 @@ IEPL专线❤️
 
 🔍探索5000+优质Telegram群、频道和机器人资源库 🚀 https://github.com/jichangtuijian2025/TGQUN
 
+🧠DeepSeek本地免费部署（支持MAC Windows Linux）：https://github.com/029danio/deepseek
+
