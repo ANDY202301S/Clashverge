@@ -1,4 +1,4 @@
-# 机场推荐榜单：稳定、安全、性价比高的 VPN 节点 （2025年2月19日更新）
+# 机场推荐榜单：稳定、安全、性价比高的 VPN 节点 （2025年2月20日更新）
 ![image](https://github.com/user-attachments/assets/35d48f88-841e-46d6-9dae-cafb54c53b46)
 
 
@@ -194,6 +194,7 @@ WgetCloud 机场是香港公司开的，原 GaCloud。SS协议，BGP中转 + 双
 教学详尽，新手友好。
 
 有点小贵。年付流量翻倍。（但架不住质量高）
+![image](https://github.com/user-attachments/assets/268fbc4a-9e45-4430-afbb-3c276b72ac45)
 
 
 
