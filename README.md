@@ -130,9 +130,13 @@ WgetCloud（原 GaCloud）由香港公司运营，提供 SS 协议机场服务�
 高速稳定：BGP 中转 + 双程 CN2 线路，节点负载均衡，实际体验流畅。
 
 覆盖区域：香港、台湾、新加坡、美国、日本，精选优质节点。
+
 用户友好：自研后台功能丰富，附带新手教学，首购赠 7 天 Netflix 体验卡。
+
 价格与优惠：稍贵，但年付流量翻倍，适合长期使用。
+
 追求稳定网络？WgetCloud 是你的选择！
+
 ![image](https://github.com/user-attachments/assets/268fbc4a-9e45-4430-afbb-3c276b72ac45)
 
 
