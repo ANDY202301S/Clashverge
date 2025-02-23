@@ -214,6 +214,8 @@ WgetCloud（原 GaCloud）由香港公司运营，提供 SS 协议机场服务�
 
 ### ②🚀 机场推荐及科学上网指南：https://github.com/jichangtuijian2025/vpn
 
+### ③严选机场VPN推荐：https://flyvpn88.top/
+
 👉👉👉 【超级好用】 TG福利搜索机器人：https://t.me/jisou?start=a_1638135106 电报神器，搜啥有啥。 ［发送要搜的关键词，就可以了］
 
 🔍探索5000+优质Telegram群、频道和机器人资源库 🚀 https://github.com/jichangtuijian2025/TGQUN
