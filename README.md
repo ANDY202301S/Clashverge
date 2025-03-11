@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/35d48f88-841e-46d6-9dae-cafb54c53b46)
 
 
-## 超实惠机场 (长期在线节点大约50余个，带宽1000MB)
+## ✈超实惠机场 (长期在线节点大约50余个，带宽1000MB)
 ### 【巨重磅！！！超实惠机场新增emby影视会员，购买超实惠的小伙伴就可以免费使用emby影视会员服务】
 ### 官网地址：[https://cutt.ly/weSsgJH9](https://cshjc.top/web/#/login?code=idnjJ84X)
 速度啦！！！限时85折优惠码：85off55  
