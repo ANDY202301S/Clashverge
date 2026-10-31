@@ -1,6 +1,6 @@
 # 机场推荐榜单：稳定、安全、性价比高的 VPN 机场节点（2026年11月更新）
 
-![更新](https://img.shields.io/badge/更新-2026--10-blue) ![收录机场](https://img.shields.io/badge/收录机场-5-green) ![榜单](https://img.shields.io/badge/榜单-每月复核-orange)
+![更新](https://img.shields.io/badge/更新-2026--11-blue) ![收录机场](https://img.shields.io/badge/收录机场-5-green) ![榜单](https://img.shields.io/badge/榜单-每月复核-orange)
 
 ![image](https://github.com/user-attachments/assets/35d48f88-841e-46d6-9dae-cafb54c53b46)
 
